@@ -142,7 +142,7 @@ p.note { display: none; }
 <a href="https%3A%2F%2Fwww.facebook.com%2Fsatoshi.hada.12%2Fposts%2Fpfbid02jTEpe2tYu5VezyauT5aKr5qYzncjddrdZeCKCYeNAm1qqANVUa6dqomxBkHTvhcwl&show_text=true&width=500" width="500" height="0"" target="_blank"><img src="20250327_002.JPG" alt="サンプル画像" width="900" /></a>
 <br>
 
-<iframe src="https://www.facebook.com/plugins/post.php?href="https%3A%2F%2Fwww.facebook.com%2Fsatoshi.hada.12%2Fposts%2Fpfbid02jTEpe2tYu5VezyauT5aKr5qYzncjddrdZeCKCYeNAm1qqANVUa6dqomxBkHTvhcwl&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsatoshi.hada.12%2Fposts%2Fpfbid02jTEpe2tYu5VezyauT5aKr5qYzncjddrdZeCKCYeNAm1qqANVUa6dqomxBkHTvhcwl&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 <br>
     
 <h2><span class="yellow">翌日は気を取り直してカインズホームでお花を眺めます</span></h2>
