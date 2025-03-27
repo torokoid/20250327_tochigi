@@ -153,7 +153,7 @@ p.note { display: none; }
 <h2><span class="yellow">タイのショッピングモールを見ちゃうと、こちらが狭く感じます</span></h2>
 <a href="20250327_012.JPG" target="_blank"><img src="20250327_012.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">庭の端では紫花菜が満開中</span></h2>
+<h2><span class="yellow">近くの河原で一株抜いてこちらに植えた紫花菜が庭の端で満開中</span></h2>
 <a href="20250327_014.JPG" target="_blank"><img src="20250327_014.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">川内図書館で画像処理してHP化</span></h2>
