@@ -156,7 +156,7 @@ p.note { display: none; }
 <h2><span class="yellow">近くの河原で一株抜いてこちらに植えた紫花菜が庭の端で満開中</span></h2>
 <a href="20250327_014.JPG" target="_blank"><img src="20250327_014.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">川内図書館で画像処理してHP化</span></h2>
+<h2><span class="yellow">河内図書館で画像処理してHP化</span></h2>
 <a href="20250327_015.JPG" target="_blank"><img src="20250327_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250327_016.JPG" target="_blank"><img src="20250327_016.JPG" alt="サンプル画像" width="900" /></a> 
 
